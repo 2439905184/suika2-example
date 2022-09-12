@@ -1,0 +1,5 @@
+@bg roof.png 0.5
+@ch c k13.png
+"next line is cross_fade test!"
+@ch c m16.png 2
+@click
